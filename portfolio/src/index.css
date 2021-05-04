@@ -1,0 +1,12 @@
+body{
+text-align: center;
+font-size : 15px;
+padding: 2.5%;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
