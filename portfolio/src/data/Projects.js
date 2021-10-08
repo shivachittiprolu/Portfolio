@@ -19,7 +19,7 @@ const PROJECTS = [
     },
     {
         id: 3,
-        title: 'Parking Slot Management',
+        title: 'Lorem ipsum Lorem ipsum',
         description: 'A react app that built using react and web dev concepts',
         link: 'https://bitbucket.org/Shiva_Chittiprolu/',
         image: project3
